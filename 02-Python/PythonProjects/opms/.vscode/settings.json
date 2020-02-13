@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\Sowar\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "python.formatting.provider": "yapf",
+    "python.linting.pylintEnabled": true,
+    // "python.linting.pylintArgs": ["--disable=C,broad-except,unused-variable",],
+}
