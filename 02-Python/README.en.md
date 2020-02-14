@@ -1,7 +1,7 @@
 # S_Study
 
 #### Description
-This is a shared souce code repository for program language studying.
+This is a shared python source code repository for program language studying.
 
 #### Software Architecture
 Software architecture description
